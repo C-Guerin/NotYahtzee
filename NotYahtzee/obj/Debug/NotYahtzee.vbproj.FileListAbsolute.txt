@@ -1,0 +1,14 @@
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\bin\Debug\NotYahtzee.exe.config
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\bin\Debug\NotYahtzee.exe
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\bin\Debug\NotYahtzee.pdb
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\bin\Debug\NotYahtzee.xml
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\obj\Debug\NotYahtzee.vbprojResolveAssemblyReference.cache
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\obj\Debug\NotYahtzee.Resources.resources
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\obj\Debug\NotYahtzee.vbproj.GenerateResource.Cache
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\obj\Debug\NotYahtzee.vbproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\obj\Debug\NotYahtzee.exe
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\obj\Debug\NotYahtzee.xml
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\obj\Debug\NotYahtzee.pdb
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\obj\Debug\NotYahtzee.FrmAbout.resources
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\obj\Debug\NotYahtzee.FrmMain.resources
+C:\Users\Chris\source\repos\NotYahtzee\NotYahtzee\obj\Debug\NotYahtzee.Help.resources
